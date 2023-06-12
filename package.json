@@ -1,0 +1,12 @@
+{
+  "name": "codegen-example",
+  "version": "1.0.0",
+  "description": "demo codegen error",
+  "dependencies": {
+    "@graphql-codegen/add": "^5.0.0",
+    "@graphql-codegen/cli": "^4.0.1",
+    "@graphql-codegen/typescript": "^4.0.0",
+    "@graphql-codegen/typescript-operations": "^4.0.0",
+    "@graphql-codegen/typescript-resolvers": "^4.0.0"
+  }
+}
